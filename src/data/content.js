@@ -5,14 +5,13 @@ export const SITE = {
   phone: "4442 2752",
   phoneExtension: "202",
   phoneHref: "tel:+59844422752",
-  address: "Dirección de Servicios Sociales",
+  address: "Dirección General de Servicios Sociales",
   addressDetail: "Anexo · Florencia Sánchez esquina Treinta y Tres",
   city: "Minas, Lavalleja",
   hours: "Lunes a viernes, de 8:30 a 17 h",
   inscriptionDateLabel: "3 de noviembre de 2026",
   officialSite: "https://www.lavalleja.gub.uy",
-  mapsUrl:
-    "https://www.google.com/maps/search/?api=1&query=Florencia+S%C3%A1nchez+esquina+Treinta+y+Tres%2C+Minas%2C+Lavalleja%2C+Uruguay",
+  mapsUrl: "https://maps.app.goo.gl/SM5t6XmvRcHv9hLn7",
 };
 
 export const NAV_LINKS = [
