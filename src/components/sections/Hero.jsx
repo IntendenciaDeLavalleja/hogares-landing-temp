@@ -1,5 +1,6 @@
 import { ArrowDown, CalendarDays } from "lucide-react";
 import { HERO, HERO_TICKER, SITE } from "../../data/content";
+import HouseO from "../ui/HouseO";
 import Marquee from "../ui/Marquee";
 
 export default function Hero() {
@@ -37,7 +38,7 @@ export default function Hero() {
               aria-hidden="true"
               className="display hero-line-1 block text-center"
             >
-              H<span className="hero-o" />GARES
+              H<HouseO />GARES
             </span>
 
             <span className="marquee-pill my-3 sm:my-4">

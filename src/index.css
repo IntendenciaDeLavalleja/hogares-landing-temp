@@ -191,27 +191,13 @@
     transform-origin: left;
   }
 
-  .hero-o {
-    position: relative;
+  .hero-house {
     display: inline-block;
-    width: 1.32em;
-    height: 0.56em;
-    margin-inline: 0.015em;
-    vertical-align: -0.02em;
-    background: #fff;
-    border-radius: 999px;
-  }
-
-  .hero-o::after {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 0.48em;
-    height: 0.48em;
-    content: "";
-    background: var(--color-ink);
-    border-radius: 999px;
-    transform: translate(-50%, -50%);
+    width: 1.2em;
+    height: 0.8em;
+    margin-inline: 0.01em;
+    vertical-align: -0.055em;
+    overflow: visible;
   }
 
   .hero-line-1 {
