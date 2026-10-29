@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+.gitattributes
+.env
+.env.*
+*.log
+README.md
+Dockerfile
+.dockerignore
+public/Hogar estudiantil.pdf
+public/img/comunidad.webp
+public/img/hogar-fachada.webp
