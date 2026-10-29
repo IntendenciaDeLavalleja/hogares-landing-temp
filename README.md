@@ -93,7 +93,7 @@ Coolify pueden monitorear el contenedor sin configuración adicional.
 
 ## Datos de contacto
 
-- Dirección de Servicios Sociales — Edificio Central, Planta Alta, Minas.
+- Dirección de Servicios Sociales — Anexo, Florencia Sánchez esquina Treinta y Tres, Minas.
 - Teléfono: 4442 2752, interno 202.
 - Horario: lunes a viernes, de 8:30 a 17 h.
 
